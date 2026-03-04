@@ -21,7 +21,7 @@ When reading a research paper, citation markers like `[1]` or `(Author, Year)` t
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/refract.git
+git clone https://github.com/LDY5388/refract.git
 cd refract
 
 # Install dependencies
